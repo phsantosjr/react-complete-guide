@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Simple Expense Web Page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It is part of the Udemy Course [React The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ## Available Scripts
 
